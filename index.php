@@ -5,6 +5,7 @@
 	Hiii!!!
 	change
 What the heck man!
+ff
 </body>
 <?php require('common/footer.php') 
 
