@@ -2,7 +2,7 @@
 <?php require('common/header.php'); ?>
 <body>
 <?php require('api/db/db.php'); ?>
-<button class="btn btn-primary">YOLO</button>
+<!--<button class="btn btn-primary">YOLO</button>-->
 <table class="table table-bordered table-hover" id="roleTable">
 	<thead>
 	<tr>
